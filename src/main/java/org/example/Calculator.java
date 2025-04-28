@@ -11,7 +11,7 @@ public class Calculator {
     public static int subtract(int a, int b) {
         return a - b;
     }
-
+    // Метод для віднімання2222
     // Метод для множення
     public static int multiply(int a, int b) {
         return a * b;
